@@ -1,0 +1,74 @@
+<ul class='nav menubar2' id='menu-main'>
+          <li>
+            <a class='active' href='/'>
+              <i class='fa fa-home'/>
+              <div id='act'>
+             <span>   Home</span>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href='#'>
+            <span> Business</span>
+            </a>
+            <ul>
+              <li>
+                <a href='#'>
+                  Fashion
+                </a>
+              </li>
+              <li>
+                <a href='#'>
+                  Fashion1
+                </a>
+              </li>
+              <li>
+                <a href='#'>
+                  Fashion2
+                </a>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <a href='#'>
+              <span>Fashion</span>
+            </a>
+            <ul>
+              <li>
+                <a href='#'>
+                  Sub Menu 1
+                </a>
+              </li>
+              <li>
+                <a href='#'>
+                  Sub Menu 2
+                </a>
+              </li>
+              <li>
+                <a href='#'>
+                  Sub Menu 3
+                </a>
+              </li>
+            </ul>
+          </li>
+<li>
+            <a href='#'>
+             <span> Sports</span>
+            </a>
+          </li>
+          <li>
+            <a href='#'>
+            <span>  Games</span>
+            </a>
+          </li>
+          <li>
+            <a href='#'>
+             <span> Technology</span>
+            </a>
+          </li>
+          <li>
+            <a href='http://www.soratemplates.com/2015/07/tech-world-blogger-templates.html'>
+             <span> Download This Template</span>
+            </a>
+          </li>
+        </ul>
